@@ -1,0 +1,6 @@
+﻿<Views>
+  <View Name="จัดการข้อมูลพื้นฐานการเข้าใช้งานระบบ" Enable="T" Icon="iconfigure">
+    <Item MappingID="1" Name="กำหนดสิทธิ์ผู้ใช้งาน" Enable="T" Icon="idocuments"/>
+    <Item MappingID="2" Name="ตำแหน่งผู้ใช้งาน" Enable="T" Icon="idocuments"/>
+  </View>
+</Views>

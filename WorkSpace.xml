@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Profile>
+    <Section ID="1" Name="What" />
+    <Section ID="2" Name="Who" />
+    <Section ID="3" Name="Where">
+      <Item Name="ServerId" Value="S0001" />
+    </Section>
+    <Section ID="4" Name="When" />
+    <Section ID="5" Name="Why" />
+  </Profile>
+  <Data>
+    <Section ID="1" Name="Server" Type="Config">
+      <Items Name="Profile" Type="STR">
+        <Means>
+          <Mean ID="C00" Name="ServerId" Type="STR" />
+          <Mean ID="C01" Name="ServerName" Type="STR" />
+          <Mean ID="C02" Name="ServerPort" Type="STR" />
+        </Means>
+        <Item C00="S00000001" C01="192.168.1.170" C02="9999" />
+      </Items>
+    </Section>
+    <Section ID="OF.0001" Name="Company01" Type="OfficeSpace" Port="5001">
+      <Items Name="Relation" Type="STR">
+        <Means>
+          <Mean ID="C00" Name="OfficeSpaceId" Type="STR" />
+          <Mean ID="C01" Name="ServerId" Type="STR" />
+        </Means>
+        <Item C00="OF.0001" C01="S00000001" />
+      </Items>
+    </Section>
+  </Data>
+</Document>

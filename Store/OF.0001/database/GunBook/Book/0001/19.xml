@@ -1,0 +1,20 @@
+<Document ID="" Name="">
+  <Data>
+    <Section ID="1" Name="GunBookInfo" Type="STR">
+      <Items Name="GunBook" Type="FIX">
+        <Item Name="BookNo" Type="STR" Value="139" />
+        <Item Name="BookVersion" Type="STR" Value="" />
+        <Item Name="BookYear" Type="STR" Value="2528" />
+        <Item Name="GunRegIDPrefix" Type="STR" Value="กท.28" />
+        <Item Name="GunRegIDStart" Type="STR" Value="50001" />
+        <Item Name="GunRegIDEnd" Type="STR" Value="56000" />
+        <Item Name="PageTotal" Type="STR" Value="300" />
+        <Item Name="BookStatus" Type="STR" Value="Create" />
+        <Item Name="CreateDate" Type="STR" Value="30/5/2560 0:18:28" />
+        <Item Name="CreateBy" Type="STR" Value="Admin" />
+        <Item Name="UpdateDate" Type="STR" Value="25/10/2560 14:12:59" />
+        <Item Name="UpdateBy" Type="STR" Value="Admin" />
+      </Items>
+    </Section>
+  </Data>
+</Document>

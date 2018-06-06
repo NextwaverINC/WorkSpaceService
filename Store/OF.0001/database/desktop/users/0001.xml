@@ -1,0 +1,27 @@
+<Document ID="1" Name="Table">
+  <Data>
+    <Section ID="desktop" Name="">
+      <Items ID="users" Name="">
+        <Means MaxID="11">
+          <Mean ID="ID" Name="ID" Detail="ID" Type="Auto" />
+          <Mean ID="C01" Name="USERNAME" Detail="USERNAME" Type="varchar" />
+          <Mean ID="C02" Name="PASSWORD" Detail="PASSWORD" Type="varchar" />
+          <Mean ID="C03" Name="TITLE" Detail="TITLE" Type="varchar" />
+          <Mean ID="C04" Name="FIRSTNAME" Detail="FIRSTNAME" Type="varchar" />
+          <Mean ID="C05" Name="LASTNAME" Detail="LASTNAME" Type="varchar" />
+          <Mean ID="C06" Name="POSITION_CODE" Detail="POSITION_CODE" Type="varchar" />
+          <Mean ID="C07" Name="CREATE_DATE" Detail="CREATE_DATE" Type="varchar" />
+          <Mean ID="C08" Name="CREATE_BY" Detail="CREATE_BY" Type="varchar" />
+          <Mean ID="C09" Name="UPDATE_DATE" Detail="UPDATE_DATE" Type="varchar" />
+          <Mean ID="C10" Name="UPDATE_BY" Detail="UPDATE_BY" Type="varchar" />
+          <Mean ID="C11" Name="STATUS" Detail="" Type="varchar" />
+        </Means>
+        <Item ID="1" C01="Admin" C02="nextwaver" C03="" C04="Admin" C05="" C06="002" C07="" C08="Admin" C09="21/05/2018" C10="system" C11="" />
+        <Item ID="2" C01="Developer" C02="thodsapon" C03="" C04="" C05="" C06="002" C07="15/03/2018" C08="system" C09="04/05/2018" C10="system" C11="" />
+        <Item ID="3" C01="user" C02="123456" C03="" C04="" C05="" C06="002" C07="17/05/2018" C08="system" C09="17/05/2018" C10="system" C11="" />
+        <Item ID="4" C01="DevTest" C02="devtest" C03="DevTest" C04="DevTest" C05="DevTest" C06="003" C07="21/05/2018" C08="system" C09="21/05/2018" C10="system" C11="" />
+        <Item ID="5" C01="admin" C02="thodsapon" C03="" C04="" C05="" C06="007" C07="23/05/2018" C08="system" C09="23/05/2018" C10="system" C11="" />
+      </Items>
+    </Section>
+  </Data>
+</Document>

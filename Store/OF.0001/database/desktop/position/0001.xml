@@ -1,0 +1,27 @@
+<Document ID="1" Name="Table">
+  <Data>
+    <Section ID="desktop" Name="">
+      <Items ID="position" Name="">
+        <Means MaxID="9">
+          <Mean ID="ID" Name="ID" Detail="" Type="Auto" />
+          <Mean ID="C01" Name="POSITION_CODE" Detail="" Type="varchar" />
+          <Mean ID="C02" Name="POSITION_NAME" Detail="" Type="varchar" />
+          <Mean ID="C03" Name="PARENT_CODE" Detail="" Type="varchar" />
+          <Mean ID="C04" Name="MENU" Detail="" Type="varchar" />
+          <Mean ID="C05" Name="CREATE_DATE" Detail="" Type="varchar" />
+          <Mean ID="C06" Name="CREATE_BY" Detail="" Type="varchar" />
+          <Mean ID="C07" Name="UPDATE_DATE" Detail="" Type="varchar" />
+          <Mean ID="C08" Name="UPDATE_BY" Detail="" Type="varchar" />
+          <Mean ID="C09" Name="STATUS" Detail="" Type="varchar" />
+        </Means>
+        <Item ID="1" C01="001" C02="Administrator" C03="" C04="0,0.0,0.0.0,0.0.1,0.1,0.1.0,0.1.1,0.2,0.2.0,1,1.0,1.0.0,1.0.1,1.0.3,1.0.4,1.0.5,1.0.6,1.1,1.1.0,1.1.1,1.1.2,1.1.3,1.1.4,1.1.5,1.1.6,1.2,1.2.0,1.2.1,1.3,1.3.0,2,3,6,7,8" C05="28/01/2014" C06="Admin" C07="21/05/2018" C08="" C09="" />
+        <Item ID="2" C01="002" C02="ผู้ดูแลระบบ" C03="" C04="0,0.0,0.0.0,0.0.1,0.1,0.1.0,0.1.1,0.2,0.2.0,1,1.0,1.0.0,1.0.1,1.0.3,1.0.6,1.1,1.1.0,1.1.1,1.1.2,1.1.3,1.1.4,1.1.5,1.1.6,1.2,1.2.0,1.2.1,1.3,1.3.0,2,3,6,7,8" C05="24/11/2017" C06="" C07="04/06/2018" C08="" C09="" />
+        <Item ID="3" C01="003" C02="ผู้ปฏิบัติงาน" C03="" C04="1,1.0,1.0.0,1.0.1,1.2,1.2.0,1.2.1,1.3,1.3.0,3" C05="24/11/2017" C06="" C07="19/05/2018" C08="" C09="" />
+        <Item ID="4" C01="004" C02="ผู้ใช้งาน" C03="" C04="1,1.0,1.0.3" C05="24/11/2017" C06="" C07="02/02/2018" C08="" C09="" />
+        <Item ID="5" C01="005" C02="TEST" C03="" C04="5,8" C05="25/11/2017" C06="" C07="25/11/2017" C08="" C09="" />
+        <Item ID="6" C01="006" C02="Dev" C03="" C04="1,1.0,1.0.5" C05="15/03/2018" C06="" C07="15/03/2018" C08="" C09="" />
+        <Item ID="7" C01="007" C02="ใบสมัครงาน" C03="" C04="0,0.0,0.0.0,0.0.1,11,11.0,11.0.0,12,12.0,12.0.0" C05="23/05/2018" C06="" C07="25/05/2018" C08="" C09="" />
+      </Items>
+    </Section>
+  </Data>
+</Document>
